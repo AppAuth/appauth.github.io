@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 
 name: AppAuth
 description: Native App SDK for OAuth 2.0 and OpenID Connect implementing modern best practices
