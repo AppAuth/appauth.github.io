@@ -1,4 +1,3 @@
-# AppAuth
 
 AppAuth is a client SDK for native apps to authenticate and authorize end-users
 using [OAuth 2.0](https://tools.ietf.org/html/rfc6749) and [OpenID Connect](http://openid.net/specs/openid-connect-core-1_0.html). Available for [iOS](https://github.com/openid/AppAuth-iOS),
@@ -23,9 +22,3 @@ OAuth which was created to secure authorization codes in public clients when
 custom URI scheme redirects are used. The library is friendly to other
 extensions (standard or otherwise) with the ability to handle additional params
 in all protocol requests and responses.
-
-## Visit the project page for your platform
-
-### [AppAuth for Android](https://github.com/openid/AppAuth-Android)
-### [AppAuth for iOS and macOS](https://github.com/openid/AppAuth-iOS)
-### [AppAuth for JS](https://github.com/openid/AppAuth-JS)
