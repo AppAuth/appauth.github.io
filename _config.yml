@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 name: AppAuth
+title: AppAuth
+
 description: Native App SDK for OAuth 2.0 and OpenID Connect implementing modern best practices
